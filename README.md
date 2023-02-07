@@ -5,7 +5,7 @@ Udas is a direct message software for terminal, connect with anyone all around t
 Udas is made to connect with anyone in the world!
 
 # Get Started
-Instllation available with <a href="https://github.com/Rayan25062011/cmp">cmp</a>
+Installation available with <a href="https://github.com/Rayan25062011/cmp">cmp</a>
 ```
 git clone https://github.com/Rayan25062011/Udas
 ```
