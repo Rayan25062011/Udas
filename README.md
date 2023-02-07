@@ -18,3 +18,11 @@ And now...To finally connect with your friend, run this!:
 ```
 ruby client.rb {Your friend's username}
 ```
+# Uninstall
+```
+gcc udas/dsoftware.c -o executable
+```
+then:
+```
+./executable
+```
