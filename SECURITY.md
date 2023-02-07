@@ -4,10 +4,6 @@ If you believe you've identified a security vulnerability in Udas (a bug that al
 
 You should not report such issues on GitHub or in other public spaces to give us time to publish a fix for the issue without exposing Udas's users to increased risk.
 
-# Scope
-
-A "vulnerability in Udas" is a vulnerability in the code distributed through our main source code repository on GitHub. Vulnerabilities that are specific to a given installation (e.g. misconfiguration) should be reported to the owner of that installation and not us.
-
 Supported Versions
 
 Version	Supported
