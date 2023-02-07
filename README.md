@@ -2,7 +2,7 @@
 Udas is a direct message software for terminal, connect with anyone all around the world.
 
 # Why Udas
-Udas is made to connect with anyone in the world! It sends encrypted text messages so dont have to worry about hackers.
+Udas is made to connect with anyone in the world!
 
 # Get Started
 Installation available with <a href="https://github.com/Rayan25062011/cmp">cmp</a>
